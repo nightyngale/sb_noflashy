@@ -1,7 +1,0 @@
-[
-  {
-    "op" : "replace",
-    "path": "/flashTimer",
-    "value": 0.0
-  }
-]
