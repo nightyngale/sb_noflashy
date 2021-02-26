@@ -1,0 +1,10 @@
+{
+  "author" : "nightyngale",
+  "description" : "Removes the bright white flash from ship transitions when entering orbit of a planet, traveling between planets, traveling between stars, etc. Should be fully compatible with all other mods! (Unless they also edit the \"flashTimer\" in sky.config, which I'm not sure why they would.) This is the second mod in my hopefully series of mods focused around accessibility. The white flash can be uncomfortable, painful, or even dangerous for photosensitive users, particularly those with epilepsy; this completely removes the possibility of eye strain or seizures from the flash, because the flash doesn't happen at all! Rejoice!\n\n[b]Special thanks to:[/b]\n[list]\n[*]@AnomNom - helping me figure out which file I needed to edit\n[*]@Sparklink - reminding me patches exist\n[/list]\n\n[b]Also available on:[/b]\n[list]\n[*]Chucklefish Forums [url=https://community.playstarbound.com/resources/no-flashy.6091/](link)[/url]\n[*]Source code on GitHub [url=https://github.com/nightyngale/sb_noflashy](link)[/url]\n[/list]\n\n[b]Changelog:[/b]\n[list]\n[*][u]Version 1.1:[/u] Deleted sky.config, replaced with sky.config.patch\n[*][u]Version 1.0:[/u] Released\n[/list]",
+  "friendlyName" : "No Flashy",
+  "link" : "steam://url/CommunityFilePage/2399419532",
+  "name" : "noflashy",
+  "steamContentId" : "2399419532",
+  "tags" : "Miscellaneous",
+  "version" : "1.1"
+}
